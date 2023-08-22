@@ -1,4 +1,6 @@
 # PsxShader
+![Demo Animation](demo.gif)
+
  A PSX style shader created for a libGDX horror game
 ## HOW TO USE
 
