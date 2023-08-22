@@ -16,7 +16,6 @@ Place the following as a variable where you are creating your ModelBatch
 val psxShaderProvider = object : ShaderProvider {
         val shader = PsxShader()
         override fun dispose() {
-            this.dispose()
             shader.dispose()
         }
 
